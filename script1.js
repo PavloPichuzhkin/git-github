@@ -146,5 +146,5 @@ const circle = new Circle({
     size: '100',
     color: "pink"
 })
-// circle.hide()
+circle.hide()
 circle.show()
